@@ -1,3 +1,4 @@
+
 ## creating the directory and Downloading the file using download.file##
 if(!file.exists("./Assignment_gcd")){dir.create("./Assignment_gcd")}
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
